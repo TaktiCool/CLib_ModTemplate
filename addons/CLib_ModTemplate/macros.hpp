@@ -1,6 +1,6 @@
-#define PREFIX BSO
-#define PATH bso
-#define MOD BSOCoop
+#define PREFIX tc
+#define PATH CLib_ModTemplate
+#define MOD CLib_ModTemplate
 
 // define Version Information
 #define MAJOR 0
