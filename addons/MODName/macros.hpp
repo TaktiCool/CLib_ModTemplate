@@ -1,4 +1,4 @@
-#define PREFIX tc
+#define PREFIX PREFIX
 #define PATH MODName
 #define MOD MODName
 
