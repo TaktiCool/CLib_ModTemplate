@@ -1,7 +1,7 @@
 #include "\tc\CLib\addons\CLib\ModuleMacros.hpp"
 
 class CfgCLibModules {
-    class CLib_ModTemplate {
+    class MODName {
         path = "\PREFIX\MODName\addons\MODName";
         dependency[] = {"CLib"};
 

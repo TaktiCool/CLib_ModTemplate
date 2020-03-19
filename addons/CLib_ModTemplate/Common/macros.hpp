@@ -1,2 +1,2 @@
 #define MODULE Common
-#include "\tc\MODName\addons\MODName\CLib_Macros.hpp"
+#include "\PREFIX\MODName\addons\MODName\macros.hpp"

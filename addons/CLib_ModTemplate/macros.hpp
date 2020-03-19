@@ -1,6 +1,6 @@
 #define PREFIX tc
-#define PATH CLib_ModTemplate
-#define MOD CLib_ModTemplate
+#define PATH MODName
+#define MOD MODName
 
 // define Version Information
 #define MAJOR 0

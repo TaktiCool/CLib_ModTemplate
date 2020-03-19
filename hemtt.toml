@@ -1,0 +1,20 @@
+name = "MODName"
+mainprefix = "PREFIX"
+modname = "MODName"
+prefix = ""
+author = "MODName Team"
+sig_version = 3
+version = "0.0.0"
+reuse_private_key = false
+files = []
+include = ["./include"]
+
+releasebuild = [
+    "@zip @MODName"
+]
+
+keyname = "MODName_{{version}}"
+signame = "MODName_{{version}}-{{git \"id 8\"}}"
+
+[header_exts]
+version= "{{git \"id 8\"}}"

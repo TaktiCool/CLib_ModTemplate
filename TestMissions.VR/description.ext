@@ -22,11 +22,9 @@ respawnDelay = 3;
 respawnDialog = 0;
 
 class CLib {
-
-
     useExperimentalAutoload = 0;
 
     useFallbackRemoteExecution = 0;
     useCompressedFunction = 0;
-    Modules[] = {"CLib"};
+    Modules[] = {"CLib", "MODName"};
 };
